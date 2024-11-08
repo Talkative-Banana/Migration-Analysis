@@ -84,7 +84,7 @@ Dharni Kumar S - Dharni21039@iiitd.ac.in
 
 Ekansh - Ekansh21044@iiitd.ac.in
 
-Lakshay Bansal - Lakshay21039@iiitd.ac.in
+Lakshay Bansal - Lakshay21059@iiitd.ac.in
 
 ## License
 
